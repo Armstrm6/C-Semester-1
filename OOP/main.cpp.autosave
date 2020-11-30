@@ -1,0 +1,44 @@
+#include <iostream>
+#include <string>
+
+
+using namespace std;
+
+struct mysteryObj{
+    public:
+    int light;
+    string color;
+    string size;
+    string burn;
+    mysteryObj(int x, string y, double z){
+        light=x;
+        color=y;
+        size=z;
+    }
+    mysteryObj(){
+        light=1;
+        color="white";
+        size="small";
+    }
+    void houseburn(){
+        if((size=="Large"||size=="large")&&(light>5)){
+            burn="House will burn";
+        }
+    }
+    void Jack(){
+        if(light >0){
+            cout<<"Jack will jump it";
+        }
+    }
+    void 
+    private:
+    void Jack();
+    void house burn();
+    void 
+};
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}

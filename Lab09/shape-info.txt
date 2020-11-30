@@ -1,0 +1,30 @@
+Valid points inputed
+This object is a triangle
+Area of the triangle: 0.5
+Perimeter of the triangle: 3.414
+The triangle is not an equilateral triangle
+
+Valid points inputed
+The object is a Quadrilateral
+Area: 1 sq. units
+Perimeter: 4 units
+
+Valid points inputed
+The object is a Circle
+Radius: 1.414
+Diameter: 2.828
+Area: 6.283
+Circumference: 8.886
+
+Valid points inputed
+This object is not a triangle
+Area of the triangle: 3.237e-317
+Perimeter of the triangle: 0
+
+
+Valid points inputed
+The object is a Quadrilateral
+Area: 4 sq. units
+Perimeter: 8 units
+
+Invalide cordinate input
